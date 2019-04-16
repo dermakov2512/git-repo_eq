@@ -1,1 +1,2 @@
-select * from yw2pf
+select * from yw2pf 
+update yw2pf set yw2sts  ='X'
