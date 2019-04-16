@@ -1,3 +1,5 @@
 select * from yw2pf
 where yw2sts  = 'A'
 update yw2pf set yw2sts  ='X'
+
+run
